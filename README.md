@@ -11,7 +11,7 @@ About Me
 
 📫 Connect With Me<br/>
 📧 Email: rohiethg@gmail.com<br/>
-💼 LinkedIn: linkedin.com/in/rohieth-g-744b99299<br/>
+💼 LinkedIn: www.linkedin.com/in/rohieth-g<br/>
 🔗 Fiverr: https://www.fiverr.com/s/vvLAQ8W<br/>
 
 # 💻 Tech Stack:
